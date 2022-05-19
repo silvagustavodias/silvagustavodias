@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hello, World👋
+
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: silvagustavodias@gmail.com
+
+### Who am I? 
+
+Hello, World! I'm a junior dev from Brazil. I've started my IT career in 2019, after conclude my master degree in Education. If you looking for someone who loves to learn and share, join me!
+
 
 <!--
 **silvagustavodias/silvagustavodias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
